@@ -1,4 +1,4 @@
-# Proiect_1_PDS
+# Tema1_PDS
 Cod MatLab pentru tema 1 de proiect PDS
 
 ETTI - TST
